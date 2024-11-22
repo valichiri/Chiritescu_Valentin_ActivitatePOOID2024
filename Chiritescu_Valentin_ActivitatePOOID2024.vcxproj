@@ -130,6 +130,7 @@
   <ItemGroup>
     <ClCompile Include="activitate_at\2024.10.11_AT1.cpp" />
     <ClCompile Include="activitate_at\2024.10.19_AT2.cpp" />
+    <ClCompile Include="activitate_at\2024.10.21_2024.11.22_IntalnireOnline-si-AT3.cpp" />
     <ClCompile Include="teme\2024.11.21_tema1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
