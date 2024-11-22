@@ -21,5 +21,8 @@
     <ClCompile Include="activitate_at\2024.10.19_AT2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="teme\2024.11.21_tema1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
